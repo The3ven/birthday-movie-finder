@@ -1,1 +1,1 @@
-# birthday_movie_finder
+# birthday-movie-finder
