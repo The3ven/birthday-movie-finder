@@ -53,6 +53,7 @@ module.exports = class BMF {
             popularity: discoverdMovie.popularity,
             image: image,
             video: ytLink,
+            overview: discoverdMovie.overview,
         }
     })
 }
